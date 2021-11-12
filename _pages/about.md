@@ -28,5 +28,5 @@ Education
 Contact
 ======
 Department of Applied Computing, Michigan Technological University
-1400 Townsend Dr, Houghton, MI 49931, USA
-zhuoh [AT] mtu [DOT] edu
+<br/>1400 Townsend Dr, Houghton, MI 49931, USA
+<br/>zhuoh [AT] mtu [DOT] edu
