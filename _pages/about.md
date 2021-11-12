@@ -18,15 +18,17 @@ redirect_from:
 - My responsibilities include communicating with physicians, data collection, data preprocssing, model design, model 
   evaluation and model deployment.
 
-Education
-======
+## Education
 - Ph.D candidate in Computational Science & Engineering, Michigan Technological University, Houghton **2019 - Present**
 - Ph.D student in Computational Science, University of Southern Mississippi, Hattiesburg **2018 - 2019**
 - Ph.D student in Control Science & Engineering, Central South University, Changsha **2015 - 2017**
 - B.S. in Electrical Engineering, Central South University, Changsha **2011 - 2015**
-  
-Contact
-======
+
+## Honors, Grants, and Awards
+- Doctoral Finishing Fellowship: 2022, MTU Houghton
+- Travel Grant Award: MCBIOS 2019
+
+## Contact
 Department of Applied Computing, Michigan Technological University
 <br/>1400 Townsend Dr, Houghton, MI 49931, USA
 <br/>zhuoh [AT] mtu [DOT] edu
