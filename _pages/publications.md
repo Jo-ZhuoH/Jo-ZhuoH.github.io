@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 ### Journal Article Manuscripts Under Review
-1. **He Z**, Zhang X, Zhao C, Ling X, Qian Z, Wang Y, Hou X, Zou J, Zhou W. A method using deep learning to discover new predictors from left-ventricular mechanical dyssynchrony for CRT response.  arXiv:2106.01355. Submitted toJournal of Nuclear Cardiology. (in review) (IF 5.95)
+1. **He Z**, Zhang X, Zhao C, Ling X, Qian Z, Wang Y, Hou X, Zou J, Zhou W. A method using deep learning to discover new predictors from left-ventricular mechanical dyssynchrony for CRT response.  arXiv:2106.01355. Submitted to Journal of Nuclear Cardiology. (in review) (IF 5.95)
 2. Zhao C, Tang H, McGonigle D, **He Z**, Zhang C, Wang YP, Deng HW, Bober R, Zhou W. Automatic extraction of coronary arteries in fluoroscopy angiograms using deep learning. Submitted to Medical Physics. medRxiv preprint doi: https://doi.org/10.1101/2020.05.26.20103440 (in review)
 3. Zhao C, Tang H, Tang J, **He Z**, Zhang C, Wang YP, Deng HW, Bober R*, Zhou W*. Semantic segmentation to extract coronary arteries in fluoroscopy angiograms. Submitted to 23rd International Conference on Medical Image Computing and Computer Assisted Intervention. Submitted to Medical Physics. medRxiv preprint doi: https://doi.org/10.1101/2020.05.26.20103440 (in review)
 
