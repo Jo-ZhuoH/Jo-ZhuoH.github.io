@@ -86,7 +86,7 @@ author:
   location         : "Houghton, MI"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=h0TJvV4AAAAJ&hl=en&oi=ao"
+  googlescholar    : https://scholar.google.com/citations?user=h0TJvV4AAAAJ&hl=en&oi=ao
   email            : "zhuoh@mtu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

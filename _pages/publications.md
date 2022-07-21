@@ -10,11 +10,11 @@ author_profile: true
 {% endif %}
 
 ### Journal Article Manuscripts Under Review
-- **He Z**, Zhang X, Zhao C, Ling X, Qian Z, Wang Y, Hou X, Zou J, Zhou W. A method using deep learning to discover new predictors from left-ventricular mechanical dyssynchrony for CRT response.  arXiv:2106.01355. Submitted to Journal of Nuclear Cardiology. (in review) (IF 5.95)
 - Zhao C, Tang H, McGonigle D, **He Z**, Zhang C, Wang YP, Deng HW, Bober R, Zhou W. Automatic extraction of coronary arteries in fluoroscopy angiograms using deep learning. Submitted to Medical Physics. medRxiv preprint doi: https://doi.org/10.1101/2020.05.26.20103440 (in review)
 - Zhao C, Tang H, Tang J, **He Z**, Zhang C, Wang YP, Deng HW, Bober R*, Zhou W*. Semantic segmentation to extract coronary arteries in fluoroscopy angiograms. Submitted to 23rd International Conference on Medical Image Computing and Computer Assisted Intervention. Submitted to Medical Physics. medRxiv preprint doi: https://doi.org/10.1101/2020.05.26.20103440 (in review)
 
 ### Articles in Peer-Reviewed Journals
+- **He Z**, Zhang X, Zhao C, Ling X, Qian Z, Wang Y, Hou X, Zou J, Zhou W. A method using deep learning to discover new predictors from left-ventricular mechanical dyssynchrony for CRT response.  arXiv:2106.01355. Journal of Nuclear Cardiology. (Accepted) (IF 5.95)
 - **He Z**, Li D, Cui C, Qin HY, Zhao Z, Hou X, Zou J, Chen ML, Wang C, Zhou W. Predictive values of left ventricular mechanical dyssynchrony for CRT response in heart failure patients with different pathophysiology. Journal of Nuclear Cardiology. 2021 Sep 17:1-2. (IF 5.95)
 - **He Z**, Fernandes FA, Nascimenta EA, Garcia EV, Mesquita CT, Zhou W. Incremental value of left ventricular shape parameters measured by gated SPECT MPI in predicting CRT super-responders. Journal of Nuclear Cardiology. 2021 Jan 27. (IF 5.95)
 - Hung GU, Zou J, **He Z**, Zhang X, Tsai SC, Wang CY, Chiang KF, Tang H, Garcia EV, Zhou W, Huang JL. Left-ventricular dyssynchrony in viable myocardium by myocardial perfusion SPECT is predictive of mechanical response to CRT. Annals of Nuclear Medicine. 2021 May 21:1-8. (IF 2.61)
