@@ -7,11 +7,13 @@ author_profile: true
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %}s
 
-### Journal Article Manuscripts Under Review
-- Zhao C, Tang H, McGonigle D, **He Z**, Zhang C, Wang YP, Deng HW, Bober R, Zhou W. Automatic extraction of coronary arteries in fluoroscopy angiograms using deep learning. Submitted to Medical Physics. medRxiv preprint doi: https://doi.org/10.1101/2020.05.26.20103440 (in review)
-- Zhao C, Tang H, Tang J, **He Z**, Zhang C, Wang YP, Deng HW, Bober R*, Zhou W*. Semantic segmentation to extract coronary arteries in fluoroscopy angiograms. Submitted to 23rd International Conference on Medical Image Computing and Computer Assisted Intervention. Submitted to Medical Physics. medRxiv preprint doi: https://doi.org/10.1101/2020.05.26.20103440 (in review)
+[comment]: <> (### Journal Article Manuscripts Under Review)
+
+[comment]: <> (- Zhao C, Tang H, McGonigle D, **He Z**, Zhang C, Wang YP, Deng HW, Bober R, Zhou W. Automatic extraction of coronary arteries in fluoroscopy angiograms using deep learning. Submitted to Medical Physics. medRxiv preprint doi: https://doi.org/10.1101/2020.05.26.20103440 &#40;in review&#41;)
+
+[comment]: <> (- Zhao C, Tang H, Tang J, **He Z**, Zhang C, Wang YP, Deng HW, Bober R*, Zhou W*. Semantic segmentation to extract coronary arteries in fluoroscopy angiograms. Submitted to 23rd International Conference on Medical Image Computing and Computer Assisted Intervention. Submitted to Medical Physics. medRxiv preprint doi: https://doi.org/10.1101/2020.05.26.20103440 &#40;in review&#41;)
 
 ### Articles in Peer-Reviewed Journals
 - **He Z**, Zhang X, Zhao C, Ling X, Qian Z, Wang Y, Hou X, Zou J, Zhou W. A method using deep learning to discover new predictors from left-ventricular mechanical dyssynchrony for CRT response.  arXiv:2106.01355. Journal of Nuclear Cardiology. (Accepted) (IF 5.95)
